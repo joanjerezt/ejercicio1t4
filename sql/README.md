@@ -4,4 +4,4 @@ Ejecutar
 
 $mysql -u root 
 
- > source *.sql
+source *.sql
